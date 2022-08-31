@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'MLSMS'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_DE28FB95FA304AB19CC1181423E85F62 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_FECF606A14E640F0B2290C7EC1B16C2D }}
